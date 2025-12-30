@@ -1,3 +1,3 @@
-# firstproject
+cd# firstproject
 This is my first repository.
-auther_amina jalil
+auther_amina jalil(superior)
